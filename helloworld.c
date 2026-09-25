@@ -2,6 +2,6 @@
 #This is a comment
 
 int main()  {
-  print("Hello, World!\n");
+  print("Hello world!\n");
   return 0;
 }
